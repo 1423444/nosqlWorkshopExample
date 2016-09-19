@@ -1,0 +1,22 @@
+{
+  "name": "day_1",
+  "version": "1.0.0",
+  "description": "awesome",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WAWSS16/nosqlWorkshopExample.git"
+  },
+  "author": "codekittey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WAWSS16/nosqlWorkshopExample/issues"
+  },
+  "homepage": "https://github.com/WAWSS16/nosqlWorkshopExample",
+  "dependencies": {
+    "mongodb": "^2.2.10"
+  }
+}
